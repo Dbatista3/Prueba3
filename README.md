@@ -3,9 +3,13 @@
 ##Presentación 
 ___
 Diana Batista 
+
 Leslie Rodriguez
+
 Beth Nuñez
+
 Davianna Perez
+
 
 ##Imagen de Introductoria
 ##Tabla de Contenido
@@ -47,4 +51,6 @@ ___
 ##Bibliografía
 ___
 https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/
+
+
 https://swcarpentry.github.io/git-novice-es/08-collab/
