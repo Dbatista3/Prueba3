@@ -46,13 +46,3 @@ Además, si deseas tener una introducción de las principales operaciones y conc
 ___
 ##Bibliografía
 ___
-https://swcarpentry.github.io/git-novice-es/08-collab/
-https://coobis.com/es/cooblog/github/
-
-
-
-
-
-
-
- 
