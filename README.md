@@ -28,7 +28,7 @@ Davianna Perez
 ___
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
 ##Temas Desarrollados
-
+___
 Commit
 ___
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
