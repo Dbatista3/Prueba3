@@ -24,6 +24,14 @@ Davianna Perez
 ##Imagen de Introductoria
 ![Foto Github](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
 ##Tabla de Contenido
+___
+#Tabla de Contenidos
+___
+-Ideal para trabajar en modo colaborativo.
+-Repository/Repositorio.
+-Commit.
+-Branch.
+___
 ##Introducción
 ___
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
