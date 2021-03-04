@@ -1,17 +1,15 @@
 
 
 
-<center>
- <img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100">
-</center>
+<center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
 
 
 ___
-#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
-
+#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**
+==
 
 ___
-##Integrantes del grupo
+Integrantes del grupo
 
 
 ___
@@ -30,7 +28,7 @@ Davianna Perez
 
 
 
-##Imagen de Introductoria
+
 ![Foto Github](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
 
 ___
@@ -82,7 +80,7 @@ Pull Request
 
 
 ___
-#Ideal para trabajar en modo colaborativo
+Ideal para trabajar en modo colaborativo
 ==
 
 Puedes crearte un perfil personal y cargar proyectos para compartir con otros usuarios. Pero también puedes conectarte con otros perfiles y seguir otras cuentas de usuarios.
@@ -109,7 +107,7 @@ ___
 
 ___
 
-##Conclusión
+Conclusión
 ==
 Esperamos que esta introducción al mundo de los sistemas de control de versiones te haya interesado y te haya ayudado a aclarar diversos conceptos. En futuros artículos os explicaremos otros detalles que tienen que ver con el uso de estos sistemas para versionar nuestro software.
 
@@ -117,7 +115,7 @@ En el Manual de Git podrás seguir aprendiendo muchas cosas de este sistema de c
 
 Además, si deseas tener una introducción de las principales operaciones y conceptos que debes entender en Git, te recomendamos el siguiente vídeo, donde se repasan temas como las capas de Git, repositorios locales y remotos, commits, ramas, etc.
 ___
-##Bibliografía
+Bibliografía
 ==
 
 
