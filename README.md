@@ -80,7 +80,6 @@ Pull Request
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
 
 
-
 ___
 Ideal para trabajar en modo colaborativo
 ===
@@ -106,7 +105,7 @@ Nota que no es necesario crear un directorio remoto llamado origin: Git utiliza 
 Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá debas actualizar la página). Deberás ver el nuevo commit hecho por el colaborador.
 
 
-
+~~~
 ___
 
 Conclusión
