@@ -24,7 +24,7 @@ Davianna Perez
 ##Imagen de Introductoria
 ##Tabla de Contenido
 ___
-#Tabla de Contenidos
+#Tabla de Contenido
 ___
 -Ideal para trabajar en modo colaborativo.
 -Repository/Repositorio.
