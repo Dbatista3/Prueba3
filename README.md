@@ -71,8 +71,9 @@ Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá de
 ##Comandos utilizados con Ejemplos
 ##imágenes relacionadas
 ___
-##Conclusión
 
+##Conclusión
+___
 Esperamos que esta introducción al mundo de los sistemas de control de versiones te haya interesado y te haya ayudado a aclarar diversos conceptos. En futuros artículos os explicaremos otros detalles que tienen que ver con el uso de estos sistemas para versionar nuestro software.
 
 En el Manual de Git podrás seguir aprendiendo muchas cosas de este sistema de control de versiones, ya más centradas en la práctica.
