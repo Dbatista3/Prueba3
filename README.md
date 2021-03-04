@@ -11,18 +11,18 @@ ___
 
 
 <h3 align="center"><b>Integrantes del grupo</h3></b>
-___
-
-<font align="center"> Diana Batista</font>
 
 
-<font align="center">Leslie Rodriguez</font>
+ Diana Batista
+ 
+
+Leslie Rodriguez
 
 
-<font align="center">Beth Nuñez</font>
+Beth Nuñez
 
 
-<font align="center">Davianna Perez</font>
+<Davianna Perez
 
 
 
