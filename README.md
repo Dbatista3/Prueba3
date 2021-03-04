@@ -2,29 +2,29 @@
 
 
 <img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="75">
-
+___
 #**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
 ___
 ##Presentación 
 ___
 Diana Batista 
 
-Leslie Rodriguez
-Beth Nuñez
-Davianna Perez
-
 
 Leslie Rodriguez
 
+
 Beth Nuñez
 
+
 Davianna Perez
+
+
 
 
 
 ##Imagen de Introductoria
 ![Foto Github](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
-##Tabla de Contenido
+
 ___
 #Tabla de Contenidos
 ___
@@ -53,7 +53,7 @@ ___
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
 
-=======
+___
 Commit
 ___
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
@@ -65,6 +65,7 @@ ___
 Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
 ___
 ##Pull Request 
+___
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
@@ -84,7 +85,7 @@ Para aceptar la invitación de acceso al repositorio, el colaborador debe ingres
 Luego, el colaborador debe descargar una copia del repositorio del dueño a su máquina. Esto se conoce como “clonar un repositorio”. Para clonar el repositorio del dueño en su carpeta de Desktop, el colaborador debe ejecutar las siguientes líneas:
 
 
-<img src="/Users/dbatista/Desktop/CD.png">
+![imagen1](/Users/dbatista/Desktop/Estoy cansada)
 <img src="https://swcarpentry.github.io/git-novice-es/fig/github-collaboration.svg">
 
 El colaborador puede ahora hacer cambios en la versión clonada del repositorio del dueño, en la misma forma en que se hacían previamente:
@@ -95,7 +96,7 @@ Luego enviar los cambios hacia el repositorio del dueño en GitHub haciendo push
 Nota que no es necesario crear un directorio remoto llamado origin: Git utiliza este nombre de manera automática cuando clonamos un repositorio. (Esta es la razón por la cual origin era una opción sensata a la hora de configurar directorios remotos a mano).
 
 Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá debas actualizar la página). Deberás ver el nuevo commit hecho por el colaborador.
-
+___
 
 ##Comandos utilizados con Ejemplos
 ##imágenes relacionadas
