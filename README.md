@@ -1,11 +1,11 @@
 
 
 
-<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100">
+<center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
 
 
 ___
-#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
+<center>#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** </center>
 
 
 ___
@@ -54,7 +54,6 @@ ___
 ___
 
 #Repository/Repositorio
-=
 ___
 ![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
