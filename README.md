@@ -4,11 +4,11 @@
 <center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
 
 
-
-#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  text-align: center
 ___
+#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
+===
 
-
+___
 Integrantes del grupo
 
 
@@ -33,7 +33,7 @@ Davianna Perez
 
 ___
 Tabla de Contenidos
-___
+===
 
 -Ideal para trabajar en modo colaborativo.
 
@@ -49,30 +49,32 @@ ___
 
 ___
 Introducción
-___
+===
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
-##Temas Desarrollados
-___
 
-Repository/Repositorio
 ___
+##Temas Desarrollados
+===
+
+___
+Repository/Repositorio
+===
+
 ![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
 
 ___
 Commit
-___
+===
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
 
 De esta manera, podrá brindarte un punto de control en el que puedes revisar o restaurar tu proyecto a cualquier estado anterior.
-___
-
 
 Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
 ___
 Pull Request 
-___
+===
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
@@ -81,7 +83,7 @@ ___
 
 ___
 Ideal para trabajar en modo colaborativo
-___
+===
 
 Puedes crearte un perfil personal y cargar proyectos para compartir con otros usuarios. Pero también puedes conectarte con otros perfiles y seguir otras cuentas de usuarios.
 Y aunque la gran mayoría almacenan proyectos de código o programas y aplicaciones desarrolladas, GitHub también sirve para conservar documentos de texto u otros tipos de archivos en las carpetas de tus proyectos y encontrar otras personas afines a tus ideas e intereses.
@@ -108,7 +110,7 @@ Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá de
 ___
 
 Conclusión
-___
+===
 Esperamos que esta introducción al mundo de los sistemas de control de versiones te haya interesado y te haya ayudado a aclarar diversos conceptos. En futuros artículos os explicaremos otros detalles que tienen que ver con el uso de estos sistemas para versionar nuestro software.
 
 En el Manual de Git podrás seguir aprendiendo muchas cosas de este sistema de control de versiones, ya más centradas en la práctica.
@@ -116,8 +118,7 @@ En el Manual de Git podrás seguir aprendiendo muchas cosas de este sistema de c
 Además, si deseas tener una introducción de las principales operaciones y conceptos que debes entender en Git, te recomendamos el siguiente vídeo, donde se repasan temas como las capas de Git, repositorios locales y remotos, commits, ramas, etc.
 ___
 Bibliografía
-___
-
+===
 
 
 https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/
