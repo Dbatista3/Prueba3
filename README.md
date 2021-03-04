@@ -1,9 +1,10 @@
 
 
 
-![Logo del colegio](https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png)
+<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="75">
 
 #**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
+___
 ##Presentación 
 ___
 Diana Batista 
@@ -28,22 +29,22 @@ ___
 #Tabla de Contenidos
 ___
 -Ideal para trabajar en modo colaborativo.
+
+
 -Repository/Repositorio.
+
+
 -Commit.
+
+
 -Branch.
+
+
 ___
 ##Introducción
 ___
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
 ##Temas Desarrollados
-___
-##BRANCH
-___
-![branch foto](https://coobis.com/wp-content/uploads/2019/11/Github-branch-pullrequest.png)
-Branch se traduce como rama. Su nombre se debe a la posibilidad de ramificar un proyecto principal con sus propias versiones.  Los cambios realizados en cada una de estas ramas se irán almacenando en sus repositorios.
-
-Es una forma muy efectiva de seguir trabajando sobre el código cuando necesitas hacerlo de forma aislada. De esta manera, ningún cambio afectará al repositorio central o a ninguna otra rama creada.
-
 ___
 
 #Repository/Repositorio
@@ -51,18 +52,18 @@ ___
 ![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
-
-___
+=======
 Commit
 ___
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
 
 De esta manera, podrá brindarte un punto de control en el que puedes revisar o restaurar tu proyecto a cualquier estado anterior.
+___
+
 
 Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
 ___
 ##Pull Request 
-___
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
@@ -82,11 +83,11 @@ Para aceptar la invitación de acceso al repositorio, el colaborador debe ingres
 Luego, el colaborador debe descargar una copia del repositorio del dueño a su máquina. Esto se conoce como “clonar un repositorio”. Para clonar el repositorio del dueño en su carpeta de Desktop, el colaborador debe ejecutar las siguientes líneas:
 
 
-![CD](/Users/dbatista/Desktop/CD.png)
-![Clone](/Users/dbatista/Desktop/clone.png)
+<img src="/Users/dbatista/Desktop/CD.png">
+<img src="https://swcarpentry.github.io/git-novice-es/fig/github-collaboration.svg">
 
 El colaborador puede ahora hacer cambios en la versión clonada del repositorio del dueño, en la misma forma en que se hacían previamente:
-![DD](/Users/dbatista/Desktop/DD.png)
+<img src="/Users/dbatista/Desktop/DD.png">
 
 Luego enviar los cambios hacia el repositorio del dueño en GitHub haciendo push
 
@@ -95,10 +96,7 @@ Nota que no es necesario crear un directorio remoto llamado origin: Git utiliza 
 Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá debas actualizar la página). Deberás ver el nuevo commit hecho por el colaborador.
 
 
-___
 ##Comandos utilizados con Ejemplos
-___
-___
 ##imágenes relacionadas
 ___
 
