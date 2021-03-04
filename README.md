@@ -52,6 +52,7 @@ ___
 ![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
+
 =======
 Commit
 ___
