@@ -2,10 +2,16 @@
 
 
 <img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="75">
+
+
 ___
 #**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
+
+
 ___
 ##Presentación 
+
+
 ___
 Diana Batista 
 
@@ -82,14 +88,13 @@ GitHub es una de las mejores plataformas para trabajar en modo colaborativo. Per
 
 Para aceptar la invitación de acceso al repositorio, el colaborador debe ingresar a https://github.com/notifications. Una vez allí, se puede aceptar la invitación a dicho repositorio.
 
-Luego, el colaborador debe descargar una copia del repositorio del dueño a su máquina. Esto se conoce como “clonar un repositorio”. Para clonar el repositorio del dueño en su carpeta de Desktop, el colaborador debe ejecutar las siguientes líneas:
+Luego, el colaborador debe descargar una copia del repositorio del dueño a su máquina. Esto se conoce como “clonar un repositorio”. 
 
 
-![imagen1](/Users/dbatista/Desktop/Estoy cansada)
+
 <img src="https://swcarpentry.github.io/git-novice-es/fig/github-collaboration.svg">
 
 El colaborador puede ahora hacer cambios en la versión clonada del repositorio del dueño, en la misma forma en que se hacían previamente:
-<img src="/Users/dbatista/Desktop/DD.png">
 
 Luego enviar los cambios hacia el repositorio del dueño en GitHub haciendo push
 
@@ -100,7 +105,7 @@ ___
 
 ##Comandos utilizados con Ejemplos
 ##imágenes relacionadas
-___
+
 
 
 ___
