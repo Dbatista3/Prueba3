@@ -5,11 +5,11 @@
 
 
 ___
-#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
+**El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
 ===
 
 ___
-Integrantes del grupo
+<h3>Integrantes del grupo</h3>
 
 
 ___
