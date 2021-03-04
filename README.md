@@ -26,8 +26,15 @@ Davianna Perez
 ##Introducción
 ___
 ##Temas Desarrollados
+___
+#Repository/Repositorio
+___
+![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
+Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
 
+Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
+___
 ##Pull Request 
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
