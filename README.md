@@ -1,8 +1,7 @@
 
 
 
-<center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
-
+<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100" align="center">
 
 ___
 <center>#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** </center>
