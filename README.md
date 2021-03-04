@@ -36,8 +36,9 @@ ___
 ___
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
 ##Temas Desarrollados
-
+___
 ##BRANCH
+___
 ![branch foto](https://coobis.com/wp-content/uploads/2019/11/Github-branch-pullrequest.png)
 Branch se traduce como rama. Su nombre se debe a la posibilidad de ramificar un proyecto principal con sus propias versiones.  Los cambios realizados en cada una de estas ramas se irán almacenando en sus repositorios.
 
@@ -51,6 +52,7 @@ ___
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
 
+___
 Commit
 ___
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
