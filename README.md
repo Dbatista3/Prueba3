@@ -33,7 +33,7 @@ ___
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
 
 De esta manera, podrá brindarte un punto de control en el que puedes revisar o restaurar tu proyecto a cualquier estado anterior.
-
+___
 
 ##Pull Request 
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
@@ -70,6 +70,7 @@ Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá de
 
 ##Comandos utilizados con Ejemplos
 ##imágenes relacionadas
+___
 ##Conclusión
 
 Esperamos que esta introducción al mundo de los sistemas de control de versiones te haya interesado y te haya ayudado a aclarar diversos conceptos. En futuros artículos os explicaremos otros detalles que tienen que ver con el uso de estos sistemas para versionar nuestro software.
