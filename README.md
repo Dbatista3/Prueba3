@@ -19,7 +19,7 @@ Diana Batista
 Leslie Rodriguez
 
 
-Beth Nuñez
+Beth Nuñez *italic*
 
 
 Davianna Perez
