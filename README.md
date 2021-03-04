@@ -23,6 +23,14 @@ Davianna Perez
 
 ##Imagen de Introductoria
 ##Tabla de Contenido
+___
+#Tabla de Contenidos
+___
+-Ideal para trabajar en modo colaborativo.
+-Repository/Repositorio.
+-Commit.
+-Branch.
+___
 ##Introducción
 ___
 ##Temas Desarrollados
