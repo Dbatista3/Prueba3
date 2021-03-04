@@ -64,13 +64,14 @@ ___
 Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
 ___
 ##Pull Request 
+___
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
 
 
 
-
+___
 #Ideal para trabajar en modo colaborativo
 ___
 
@@ -96,8 +97,10 @@ Nota que no es necesario crear un directorio remoto llamado origin: Git utiliza 
 Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá debas actualizar la página). Deberás ver el nuevo commit hecho por el colaborador.
 
 
-
+___
 ##Comandos utilizados con Ejemplos
+___
+___
 ##imágenes relacionadas
 ___
 
