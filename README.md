@@ -1,11 +1,11 @@
 
 
 
-<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100">
+<center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
 
 
 ___
-#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
+#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  text-align: center
 ___
 
 ___
@@ -102,7 +102,7 @@ Luego enviar los cambios hacia el repositorio del dueño en GitHub haciendo push
 Nota que no es necesario crear un directorio remoto llamado origin: Git utiliza este nombre de manera automática cuando clonamos un repositorio. (Esta es la razón por la cual origin era una opción sensata a la hora de configurar directorios remotos a mano).
 
 Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá debas actualizar la página). Deberás ver el nuevo commit hecho por el colaborador.
-___
+
 
 
 ___
