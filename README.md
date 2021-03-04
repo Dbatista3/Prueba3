@@ -1,11 +1,11 @@
 
 
 
-<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100">
+<center><img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100"></center>
 
 
 ___
-**El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
+#**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2**  
 ===
 
 ___
@@ -53,10 +53,10 @@ Introducción
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
 
 ___
-Temas Desarrollados
+##Temas Desarrollados
 ===
 
-___
+
 Repository/Repositorio
 ===
 
