@@ -1,11 +1,23 @@
-![Logo del colegio](https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png =250x)
+<img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="75">
+
+
 #**#El Uso de Git y GitHub para trabajos colaborativos Grupo #2** 
+
+
 ##Presentación 
 ___
 Diana Batista 
+
+
 Leslie Rodriguez
+
+
 Beth Nuñez
+
+
 Davianna Perez
+
+
 
 ##Imagen de Introductoria
 ##Tabla de Contenido
@@ -23,11 +35,11 @@ Para aceptar la invitación de acceso al repositorio, el colaborador debe ingres
 
 Luego, el colaborador debe descargar una copia del repositorio del dueño a su máquina. Esto se conoce como “clonar un repositorio”. Para clonar el repositorio del dueño en su carpeta de Desktop, el colaborador debe ejecutar las siguientes líneas:
 
-![CD](/Users/dbatista/Desktop/CD.png)
-![Clone](/Users/dbatista/Desktop/clone.png)
+<img src="/Users/dbatista/Desktop/CD.png">
+<img src="/Users/dbatista/Desktop/clone.png">
 
 El colaborador puede ahora hacer cambios en la versión clonada del repositorio del dueño, en la misma forma en que se hacían previamente:
-![DD](/Users/dbatista/Desktop/DD.png)
+<img src="/Users/dbatista/Desktop/DD.png">
 
 Luego enviar los cambios hacia el repositorio del dueño en GitHub haciendo push
 
@@ -41,6 +53,8 @@ ___
 ##Bibliografía
 ___
 https://swcarpentry.github.io/git-novice-es/08-collab/
+
+
 https://coobis.com/es/cooblog/github/
 
 
