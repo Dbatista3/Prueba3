@@ -22,6 +22,7 @@ Davianna Perez
 
 
 ##Imagen de Introductoria
+![Foto Github](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
 ##Tabla de Contenido
 ##Introducción
 ___
