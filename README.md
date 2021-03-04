@@ -8,23 +8,21 @@
 
 ___
 <h2 align="center"><b>El Uso de Git y GitHub para trabajos colaborativos Grupo #2</b></h2>
-___
 
 
 <h3 align="center"><b>Integrantes del grupo</h3></b>
-
-
 ___
-Diana Batista 
+
+<font align="center"> Diana Batista</font>
 
 
-Leslie Rodriguez
+<font align="center">Leslie Rodriguez</font>
 
 
-Beth Nuñez *italic*
+<font align="center">Beth Nuñez</font>
 
 
-Davianna Perez
+<font align="center">Davianna Perez</font>
 
 
 
@@ -36,7 +34,7 @@ Davianna Perez
 
 ___
 <h2 align="center"><b>Tabla de Contenidos</b></h2>
-___
+
 
 
 -Ideal para trabajar en modo colaborativo.
@@ -52,37 +50,37 @@ ___
 
 
 ___
-Introducción
-===
+<h2 align="center"><b>Introducción</b></h2>
+
 ¿Has oído hablar de Github?  Git es una forma de guardar solo los cambios realizados sobre los archivos, en lugar de guardar versiones completas del mismo cada vez que se realiza una modificación, es una plataforma para desarrollar software de forma colaborativa y alojar proyectos que usa un sistema de control de versiones.
 
 ___
-Repository/Repositorio
-===
+<h2 align="center"><b>Repository/Repositorio</b></h2>
+
 
 ![Respository foto](https://coobis.com/wp-content/uploads/2019/11/github-repository-setup.png)
 
 Los repositorios son los espacios de almacenamiento donde se alojan los proyectos y sus copias de seguridad. Es precisamente esta funcionalidad la que permite restaurar código o cambios que se hayan producido en el proyecto.
 
 ___
-Commit
-===
+<h2 align="center"><b>Commit</b></h2>
+
 El control de versiones Git funciona a base de comandos. Uno de los más importantes es el comando «commit». Cuando se acciona, este está tomando una «fotografía» de su repositorio en ese momento.
 
 De esta manera, podrá brindarte un punto de control en el que puedes revisar o restaurar tu proyecto a cualquier estado anterior.
 
 Pero es que, además de código, también almacenan imágenes, archivos de texto y audio. En definitiva, todo el material que componga el proyecto queda guardado aquí. Los repositorios pueden estar alojados en línea dentro de un directorio raíz de Github. O por el contrario, pueden ser una carpeta local dentro del ordenador.
 ___
-Pull Request 
-===
+<h2 align="center"><b>Pull Request</b></h2>
+
  Cuando envías una Pull request estás informando a los demás colaboradores de que has enviado al repositorio principal las modificaciones de tu rama. Al recibirla, los colaboradores pueden también revisarla o modificarla antes de fusionarla. 
 
  ![Pull Request foto](https://desarrolloweb.com/archivoimg/general/3514.png)
 
 
 ___
-Ideal para trabajar en modo colaborativo
-===
+<h2 align="center"><b>Ideal para trabajar en modo colaborativo</b></h2>
+
 
 Puedes crearte un perfil personal y cargar proyectos para compartir con otros usuarios. Pero también puedes conectarte con otros perfiles y seguir otras cuentas de usuarios.
 Y aunque la gran mayoría almacenan proyectos de código o programas y aplicaciones desarrolladas, GitHub también sirve para conservar documentos de texto u otros tipos de archivos en las carpetas de tus proyectos y encontrar otras personas afines a tus ideas e intereses.
@@ -108,16 +106,17 @@ Ahora echa un vistazo al repositorio del dueño en su sitio de Github (quizá de
 
 ___
 
-Conclusión
-===
+<h2 align="center"><b>Conclusión</b></h2>
+
 Esperamos que esta introducción al mundo de los sistemas de control de versiones te haya interesado y te haya ayudado a aclarar diversos conceptos. En futuros artículos os explicaremos otros detalles que tienen que ver con el uso de estos sistemas para versionar nuestro software.
 
 En el Manual de Git podrás seguir aprendiendo muchas cosas de este sistema de control de versiones, ya más centradas en la práctica.
 
 Además, si deseas tener una introducción de las principales operaciones y conceptos que debes entender en Git, te recomendamos el siguiente vídeo, donde se repasan temas como las capas de Git, repositorios locales y remotos, commits, ramas, etc.
 ___
-Bibliografía
-===
+
+<h2 align="center"><b>Bibliografía</b></h2>
+
 
 
 https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/
