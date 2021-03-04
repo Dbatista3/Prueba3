@@ -1,13 +1,13 @@
 
 
 
-<center>
+
  <img src="https://cafam.edu.do/media/rc4jfl2l/cafam-logo2.png" height="100" align="center">
-</center>
+
 
 
 ___
-<h2 align="center"><b>El Uso de Git y GitHub para trabajos colaborativos Grupo #2**</b></h2>
+<h2 align="center"><b>El Uso de Git y GitHub para trabajos colaborativos Grupo #2</b></h2>
 ___
 
 
@@ -33,9 +33,11 @@ Davianna Perez
 
 ![Foto Github](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
 
+
 ___
-Tabla de Contenidos
-===
+<h2 align="center"><b>Tabla de Contenidos</b></h2>
+___
+
 
 -Ideal para trabajar en modo colaborativo.
 
