@@ -10,7 +10,7 @@ ___
 <h2 align="center">El Uso de Git y GitHub para trabajos colaborativos Grupo #2</h2>
 
 
-<h3 align="center"><b>Integrantes del grupo</h3></b>
+<h3>Integrantes del grupo</h3>
 
 
  Diana Batista
